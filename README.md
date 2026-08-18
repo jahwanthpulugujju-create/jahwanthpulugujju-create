@@ -35,32 +35,12 @@ I am currently focused on TypeScript and React application development, Python s
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jahwanthpulugujju-create/Sentra">Sentra</a></h3>
-      <p>An authority boundary for autonomous agents that evaluates proposed actions, enforces deterministic policy, and records hash-linked proof of each decision.</p>
-      <p><code>Python</code> <code>JavaScript</code> <code>Policy enforcement</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jahwanthpulugujju-create/ipl-auction-ecell">IPL Auction Platform</a></h3>
-      <p>A real-time auction workflow with bidding, administration tools, team dashboards, and multi-user event coordination.</p>
-      <p><code>React</code> <code>Node.js</code> <code>WebSockets</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jahwanthpulugujju-create/SVES">SVES Alumni Dashboard</a></h3>
-      <p>A searchable alumni dashboard with summary metrics, structured records, and chart-based views for exploring data.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Charts</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jahwanthpulugujju-create/jahwanth-portfolio">Jahwanth Portfolio</a></h3>
-      <p>A personal portfolio application that presents selected work, project context, and a clear path to explore current builds.</p>
-      <p><code>React</code> <code>Vite</code> <code>TanStack Router</code></p>
-    </td>
-  </tr>
-</table>
+| Project | Focus | Technology |
+| --- | --- | --- |
+| **[Sentra](https://github.com/jahwanthpulugujju-create/Sentra)** | An authority boundary for autonomous agents that evaluates proposed actions, enforces deterministic policy, and records hash-linked proof of each decision. | `Python` `JavaScript` `Policy enforcement` |
+| **[Intelli-Credit](https://github.com/jahwanthpulugujju-create/Intelli-Credit)** | An enterprise credit-intelligence platform that turns financial documents into practical underwriting reports. | `TypeScript` `Financial analysis` `Underwriting` |
+| **[hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow](https://github.com/jahwanthpulugujju-create/hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow)** | A HackIndia team project developed for the HackFlow challenge, focused on taking a practical idea through a collaborative hackathon build. | `Hackathon` `Collaboration` `Product development` |
+| **[project-forge](https://github.com/jahwanthpulugujju-create/project-forge)** | A code-review workflow platform with structured collaboration, cloud API support, and local deployment options. | `TypeScript` `Code review` `Cloud API` |
 
 ## My engineering habits
 
