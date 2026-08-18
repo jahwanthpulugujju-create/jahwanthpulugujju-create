@@ -13,14 +13,14 @@
   ·
   <a href="https://github.com/jahwanthpulugujju-create?tab=repositories">Repositories</a>
   ·
-  <a href="https://github.com/jahwanthpulugujju-create/UGV">Flagship project</a>
+  <a href="https://github.com/jahwanthpulugujju-create/Sentra">Flagship project</a>
 </p>
 
 ## A quick introduction
 
 I like taking an idea from a rough sketch to a usable product. My work sits at the intersection of thoughtful interfaces, reliable application flows, and clear engineering documentation.
 
-I am currently focused on TypeScript and React application development, Python services, data-rich interfaces, build validation, and product details that make software easier to understand and maintain.
+I am currently focused on TypeScript and React application development, Python services, authority boundaries for autonomous systems, data-rich interfaces, build validation, and product details that make software easier to understand and maintain.
 
 <details>
 <summary><strong>What I enjoy building</strong></summary>
@@ -38,9 +38,9 @@ I am currently focused on TypeScript and React application development, Python s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jahwanthpulugujju-create/UGV">UGV Operational Monitoring Interface</a></h3>
-      <p>A TypeScript dashboard prototype that visualizes simulated telemetry, event streams, and operational state in an interactive interface.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Vite</code></p>
+      <h3><a href="https://github.com/jahwanthpulugujju-create/Sentra">Sentra</a></h3>
+      <p>An authority boundary for autonomous agents that evaluates proposed actions, enforces deterministic policy, and records hash-linked proof of each decision.</p>
+      <p><code>Python</code> <code>JavaScript</code> <code>Policy enforcement</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jahwanthpulugujju-create/ipl-auction-ecell">IPL Auction Platform</a></h3>
