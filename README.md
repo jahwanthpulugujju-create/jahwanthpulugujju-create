@@ -33,14 +33,23 @@ I am currently focused on TypeScript and React application development, Python s
 
 </details>
 
+## Top skills
+
+| Area | Core strengths |
+| --- | --- |
+| **Full-stack product development** | TypeScript, React, Node.js, responsive interfaces, application flows |
+| **Python and automation** | Python services, policy-driven workflows, data processing, verification |
+| **Data and platform engineering** | PostgreSQL, dashboards, API integration, documentation, CI |
+| **Collaboration and delivery** | Git, code review, clear READMEs, release preparation, reproducible setup |
+
 ## Featured work
 
-| Project | Focus | Technology |
+| Project | Brief description | Tech stack |
 | --- | --- | --- |
-| **[Sentra](https://github.com/jahwanthpulugujju-create/Sentra)** | An authority boundary for autonomous agents that evaluates proposed actions, enforces deterministic policy, and records hash-linked proof of each decision. | `Python` `JavaScript` `Policy enforcement` |
-| **[Intelli-Credit](https://github.com/jahwanthpulugujju-create/Intelli-Credit)** | An enterprise credit-intelligence platform that turns financial documents into practical underwriting reports. | `TypeScript` `Financial analysis` `Underwriting` |
-| **[hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow](https://github.com/jahwanthpulugujju-create/hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow)** | A HackIndia team project developed for the HackFlow challenge, focused on taking a practical idea through a collaborative hackathon build. | `Hackathon` `Collaboration` `Product development` |
-| **[project-forge](https://github.com/jahwanthpulugujju-create/project-forge)** | A code-review workflow platform with structured collaboration, cloud API support, and local deployment options. | `TypeScript` `Code review` `Cloud API` |
+| **[Sentra](https://github.com/jahwanthpulugujju-create/Sentra)** | An authority boundary that evaluates proposed autonomous-agent actions, applies deterministic policy, and records hash-linked decision evidence. | `Python` `HTML` `JavaScript` `CSS` |
+| **[Intelli-Credit](https://github.com/jahwanthpulugujju-create/Intelli-Credit)** | An enterprise credit-intelligence product that transforms financial documents into practical underwriting reports. | `TypeScript` `PL/pgSQL` `JavaScript` `CSS` |
+| **[hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow](https://github.com/jahwanthpulugujju-create/hackindia-spark-11-hyderabad-telangana-south-central-region-hackflow)** | A collaborative HackIndia team repository for the HackFlow challenge, documenting a focused hackathon product build. | `Hackathon delivery` `GitHub` `Team collaboration` |
+| **[project-forge](https://github.com/jahwanthpulugujju-create/project-forge)** | A structured code-review workflow platform with cloud API support and local deployment options. | `TypeScript` `JavaScript` `Docker` `Cloud API` |
 
 ## My engineering habits
 
@@ -62,17 +71,13 @@ The best debugging session is the one that leaves the codebase easier to reason 
 
 </details>
 
-## Technology I use
+## Recent activity
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
+| Date | Update |
+| --- | --- |
+| 2026-08-18 | Refreshed this profile’s featured-project presentation with clear project context and stacks. |
+| 2026-08-18 | Published the [UGV Operational Monitoring Interface `v0.1.0`](https://github.com/jahwanthpulugujju-create/UGV/releases/tag/v0.1.0) release. |
+| 2026-08-18 | Opened [a documentation contribution to Symphony State](https://github.com/shiftbloom-studio/symphony-state/pull/60) for maintainer review. |
 
 ## GitHub activity
 
